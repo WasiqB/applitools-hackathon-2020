@@ -12,8 +12,6 @@ import static java.util.concurrent.TimeUnit.SECONDS;
 import java.lang.reflect.Method;
 
 import com.github.wasiqb.applitools.utils.DriverUtil;
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
@@ -46,7 +44,7 @@ public class BaseTest {
     }
 
     @AfterTest(alwaysRun = true)
-    public void teardownTest() {
+    public void tearDownTest() {
         driverUtil.close();
         driverUtil.quit();
     }
@@ -57,9 +55,5 @@ public class BaseTest {
         timeout.implicitlyWait(getConfigInt(WAIT_IMPLICIT), SECONDS);
         timeout.pageLoadTimeout(getConfigInt(TO_PAGE), SECONDS);
         timeout.setScriptTimeout(getConfigInt(TO_SCRIPT), SECONDS);
-        final WebDriver.Window window = driver.manage()
-            .window();
-        window.setSize(new Dimension(1366, 789));
-        window.setPosition(new Point(0, 0));
     }
 }
