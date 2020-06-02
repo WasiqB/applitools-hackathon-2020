@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Applitools Hackathon Suite" preserve-order="true">
+    <test name="Applitools Hackathon Test - V1">
+        <groups>
+            <run>
+                <include name="app_v1_url"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.applitools.TraditionalTests">
+                <methods>
+                    <include name="testLoginElements"/>
+                    <include name="testLoginFunctionality"/>
+                    <include name="testTableSort"/>
+                    <include name="testCanvasChart"/>
+                    <include name="testDynamicContent"/>
+                </methods>
+            </class>
+            <class name="com.applitools.VisualAITests">
+                <methods>
+                    <include name="testLoginElements"/>
+                    <include name="testLoginFunctionality"/>
+                    <include name="testTableSort"/>
+                    <include name="testCanvasChart"/>
+                    <include name="testDynamicContent"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Applitools Hackathon Test - V2">
+        <groups>
+            <run>
+                <include name="app_v2_url"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.applitools.TraditionalTests">
+                <methods>
+                    <include name="testLoginElements"/>
+                    <include name="testLoginFunctionality"/>
+                    <include name="testTableSort"/>
+                    <include name="testCanvasChart"/>
+                    <include name="testDynamicContent"/>
+                </methods>
+            </class>
+            <class name="com.applitools.VisualAITests">
+                <methods>
+                    <include name="testLoginElements"/>
+                    <include name="testLoginFunctionality"/>
+                    <include name="testTableSort"/>
+                    <include name="testCanvasChart"/>
+                    <include name="testDynamicContent"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
