@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
 public class BaseVisualTest extends BaseTest {
-    private EyeUtils eyes;
+    protected EyeUtils eyes;
     private int count;
 
     @AfterMethod(alwaysRun = true)
@@ -24,7 +24,7 @@ public class BaseVisualTest extends BaseTest {
 
     @BeforeTest(alwaysRun = true)
     public void setupVisualTests() {
-        this.eyes = new EyeUtils(BaseTest.driverUtil);
+        this.eyes = new EyeUtils(this.driverUtil);
         this.count = 1;
     }
 

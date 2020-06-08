@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Applitools Cross Browser Testing Hackathon Suite - Modern Approach" preserve-order="true">
+    <test name="AppliFashion Modern Test - V1">
+        <classes>
+            <class name="com.github.wasiqb.applitools.ModernTestsV1.ModernTest1">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="AppliFashion Modern Test - V2">
+        <classes>
+            <class name="com.github.wasiqb.applitools.ModernTestsV2.ModernTest2">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

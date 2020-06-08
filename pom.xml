@@ -54,7 +54,16 @@
             <version>29.0-jre</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>13.0</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
+    <properties>
+        <approach>modern</approach>
+    </properties>
     <build>
         <plugins>
             <plugin>
@@ -94,8 +103,11 @@
                             <value>false</value>
                         </property>
                     </properties>
+                    <systemProperties>
+
+                    </systemProperties>
                     <suiteXmlFiles>
-                        <suiteXmlFile>runner/hackathon-test.xml</suiteXmlFile>
+                        <suiteXmlFile>runner/hackathon-${approach}-test.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <argLine>-Dfile.encoding=UTF-8 -Xdebug -Xnoagent</argLine>
                 </configuration>
