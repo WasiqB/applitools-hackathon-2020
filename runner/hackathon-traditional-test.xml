@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Applitools Cross Browser Testing Hackathon Suite - Traditional Approach - V1" preserve-order="true" parallel="tests" thread-count="3">
+    <test name="Laptop - Chrome">
+        <parameter name="browser" value="Chrome" />
+        <parameter name="viewport" value="1200 x 700" />
+        <parameter name="device" value="Laptop" />
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV1.TraditionalTest1">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="AppliFashion Traditional Test - V2" enabled="false">
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

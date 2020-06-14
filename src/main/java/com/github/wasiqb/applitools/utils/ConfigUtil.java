@@ -13,7 +13,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ConfigUtil {
+public final class ConfigUtil {
     private static final Properties CONFIG;
 
     static {
@@ -23,7 +23,7 @@ public class ConfigUtil {
         try (final FileInputStream in = new FileInputStream (new File (configPath))) {
             CONFIG.load (in);
         } catch (final IOException e) {
-            e.printStackTrace ();
+            throw new RuntimeException ("Error while loading Config properties.");
         }
     }
 
@@ -37,5 +37,9 @@ public class ConfigUtil {
 
     public static String getConfigString (final String key) {
         return ofNullable (getenv (key)).orElse (ofNullable (getProperty (key)).orElse (CONFIG.getProperty (key)));
+    }
+
+    private ConfigUtil () {
+        // Util class.
     }
 }

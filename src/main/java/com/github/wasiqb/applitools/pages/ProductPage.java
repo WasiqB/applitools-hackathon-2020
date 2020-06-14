@@ -1,6 +1,6 @@
 package com.github.wasiqb.applitools.pages;
 
-import static com.google.common.truth.Truth.assertThat;
+import static org.testng.Assert.assertTrue;
 
 import com.github.wasiqb.applitools.utils.DriverUtil;
 import com.github.wasiqb.applitools.utils.ElementUtil;
@@ -16,6 +16,6 @@ public class ProductPage extends BasePage {
     }
 
     public void isAt () {
-        assertThat (addToCart ().isVisible ()).isTrue ();
+        assertTrue (addToCart ().isVisible ());
     }
 }

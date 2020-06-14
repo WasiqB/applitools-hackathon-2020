@@ -24,11 +24,18 @@ import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseTest {
+    protected String     browser;
+    protected String     device;
     protected DriverUtil driverUtil;
+    protected String     viewport;
 
-    @Parameters ({ "browser", "resolution" })
+    @Parameters ({ "browser", "viewport", "device" })
     @BeforeTest (alwaysRun = true)
-    public void setupTest (@Optional (EMPTY) final String browser, @Optional (EMPTY) final String resolution) {
+    public void setupTest (@Optional (EMPTY) final String browser, @Optional (EMPTY) final String resolution,
+        @Optional (EMPTY) final String device) {
+        this.browser = browser;
+        this.viewport = resolution;
+        this.device = device;
         final WebDriver driver = setupBrowser (browser);
         setupDriver (driver, resolution);
         this.driverUtil = new DriverUtil (driver);
@@ -41,7 +48,7 @@ public class BaseTest {
     }
 
     private WebDriver setupBrowser (final String browser) {
-        switch (browser) {
+        switch (browser.toLowerCase ()) {
             case "edge":
                 edgedriver ().setup ();
                 return new EdgeDriver ();
@@ -65,7 +72,7 @@ public class BaseTest {
             final String[] sizes = resolution.split ("x");
             driver.manage ()
                 .window ()
-                .setSize (new Dimension (parseInt (sizes[0]), parseInt (sizes[1])));
+                .setSize (new Dimension (parseInt (sizes[0].trim ()), parseInt (sizes[1].trim ())));
         } else {
             driver.manage ()
                 .window ()

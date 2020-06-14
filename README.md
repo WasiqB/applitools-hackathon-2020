@@ -37,7 +37,12 @@ This solution was worked on Mac OSX Catalina 10.15.4
 #### Terminal
 
 ```shell script
-> mvn clean install -DEYE_API=<your_api_key>
+# With environment variable.
+> export eyes_api=<your_api_key>
+> mvn clean install
+
+# Or, with system property.
+> mvn clean install -Deyes_api=<your_api_key>
 ```
 
 ### Traditional approach
@@ -45,8 +50,9 @@ This solution was worked on Mac OSX Catalina 10.15.4
 #### Terminal
 
 ```shell script
-> mvn clean install -DEYE_API=<your_api_key> -Dapproach=traditional
+> mvn clean install -Dapproach=traditional
 ```
+
 ## Author
 
 Wasiq Bhamla

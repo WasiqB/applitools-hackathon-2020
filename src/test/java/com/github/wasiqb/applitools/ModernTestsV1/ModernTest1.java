@@ -6,6 +6,7 @@ import static com.github.wasiqb.applitools.utils.Constants.APP_V1;
 import com.github.wasiqb.applitools.BaseVisualTest;
 import com.github.wasiqb.applitools.pages.DashboardPage;
 import com.github.wasiqb.applitools.pages.ProductPage;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class ModernTest1 extends BaseVisualTest {
@@ -15,9 +16,13 @@ public class ModernTest1 extends BaseVisualTest {
         return getConfigString (APP_V1);
     }
 
+    @BeforeTest
+    public void setup () {
+        this.driverUtil.navigate (getUrl ());
+    }
+
     @Test
     public void test1 () {
-        this.driverUtil.navigate (getUrl ());
         this.eyes.check ("Cross-Device Elements Test");
     }
 
