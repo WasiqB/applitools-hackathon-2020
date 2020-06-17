@@ -43,7 +43,6 @@ public class BaseTest {
 
     @AfterTest (alwaysRun = true)
     public void tearDownTest () {
-        this.driverUtil.close ();
         this.driverUtil.quit ();
     }
 

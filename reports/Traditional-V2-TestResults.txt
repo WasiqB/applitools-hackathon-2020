@@ -1,0 +1,532 @@
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu field is displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search Glass field is displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search box field is displayed, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Search icon field is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Tile view icon field is displayed, DOM Id: I__tiviewgrid__203, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Detail view icon field is displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Cart icon field is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Profile icon field is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Wishlist icon field is displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Sidebar field is displayed, DOM Id: sidebar_filters, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filter option field is displayed, DOM Id: ti-filter, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filter button field is displayed, DOM Id: filterBtn, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filter Label field is displayed, DOM Id: SPAN____209, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Banner field is displayed, DOM Id: DIV__topbanner__188, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Logo field is displayed, DOM Id: logo, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Sort field is displayed, DOM Id: sort, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night image field is displayed, DOM Id: product_1, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night title field is displayed, DOM Id: H3____219, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Price field is displayed, DOM Id: DIV__pricebox__220, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air x Night Heart icon field is displayed, DOM Id: I__tiheart__226, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Compare icon field is displayed, DOM Id: I__ticontrols__230, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air x Night Shopping icon field is displayed, DOM Id: I__tishopping__234, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG image field is displayed, DOM Id: product_3, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG title field is displayed, DOM Id: H3____244, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Price field is displayed, DOM Id: DIV__pricebox__245, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Heart icon field is displayed, DOM Id: I__tiheart__251, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Compare icon field is displayed, DOM Id: I__ticontrols__255, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Wildwood ACG Shopping icon field is displayed, DOM Id: I__tishopping__259, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra image field is displayed, DOM Id: product_4, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra title field is displayed, DOM Id: H3____267, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Price field is displayed, DOM Id: DIV__pricebox__268, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli ACG React Terra Heart icon field is displayed, DOM Id: I__tiheart__273, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Compare icon field is displayed, DOM Id: I__ticontrols__277, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli ACG React Terra Shopping icon field is displayed, DOM Id: I__tishopping__281, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha image field is displayed, DOM Id: product_5, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha title field is displayed, DOM Id: H3____289, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Price field is displayed, DOM Id: DIV__pricebox__290, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Heart icon field is displayed, DOM Id: I__tiheart__295, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Compare icon field is displayed, DOM Id: I__ticontrols__299, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Zoom Alpha Shopping icon field is displayed, DOM Id: I__tishopping__303, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha image field is displayed, DOM Id: product_6, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha title field is displayed, DOM Id: H3____311, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Price field is displayed, DOM Id: DIV__pricebox__312, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air Alpha Heart icon field is displayed, DOM Id: I__tiheart__317, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Compare icon field is displayed, DOM Id: I__ticontrols__321, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air Alpha Shopping icon field is displayed, DOM Id: I__tishopping__325, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 image field is displayed, DOM Id: product_7, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 title field is displayed, DOM Id: H3____333, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Price field is displayed, DOM Id: DIV__pricebox__334, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air 98 Heart icon field is displayed, DOM Id: I__tiheart__339, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Compare icon field is displayed, DOM Id: I__ticontrols__343, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air 98 Shopping icon field is displayed, DOM Id: I__tishopping__347, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 image field is displayed, DOM Id: product_8, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 title field is displayed, DOM Id: H3____355, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Price field is displayed, DOM Id: DIV__pricebox__356, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Air 720 Heart icon field is displayed, DOM Id: I__tiheart__361, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Compare icon field is displayed, DOM Id: I__ticontrols__365, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Air 720 Shopping icon field is displayed, DOM Id: I__tishopping__369, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II image field is displayed, DOM Id: product_2, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II title field is displayed, DOM Id: H3____379, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Price field is displayed, DOM Id: DIV__pricebox__380, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli Okwahn II Heart icon field is displayed, DOM Id: I__tiheart__386, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Compare icon field is displayed, DOM Id: I__ticontrols__390, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli Okwahn II Shopping icon field is displayed, DOM Id: I__tishopping__394, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli 720 image field is displayed, DOM Id: product_9, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli 720 title field is displayed, DOM Id: H3____402, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Price field is displayed, DOM Id: DIV__pricebox__403, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Product: Appli 720 Heart icon field is displayed, DOM Id: I__tiheart__408, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Compare icon field is displayed, DOM Id: I__ticontrols__412, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Product: Appli 720 Shopping icon field is displayed, DOM Id: I__tishopping__416, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Additional Links field is displayed, DOM Id: UL__additional__472, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Contact field is displayed, DOM Id: collapse_3, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Currency selector field is displayed, DOM Id: DIV__styledsele__467, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Language selector field is displayed, DOM Id: DIV__styledsele__460, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Newsletter field is displayed, DOM Id: newsletter, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Quick links field is displayed, DOM Id: collapse_1, Browser: Chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail

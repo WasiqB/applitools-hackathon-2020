@@ -92,6 +92,10 @@ public class DashboardPage extends BasePage {
         return this.driverUtil.find (By.id ("INPUTtext____42"));
     }
 
+    public ElementUtil searchGlass () {
+        return this.driverUtil.find (By.className ("btn_search_mob"));
+    }
+
     public ElementUtil searchIcon () {
         return this.driverUtil.find (By.id ("I__headericon__44"));
     }
@@ -111,6 +115,7 @@ public class DashboardPage extends BasePage {
     public void verifyLaptopView (final int version, final int taskId, final String browser, final String viewport,
         final String device) {
         log (version, taskId, "Main menu", mainMenu (), browser, viewport, device, true);
+        log (version, taskId, "Search Glass", searchGlass (), browser, viewport, device, false);
         log (version, taskId, "Search box", searchBox (), browser, viewport, device, true);
         log (version, taskId, "Search icon", searchIcon (), browser, viewport, device, true);
         log (version, taskId, "Tile view icon", tileViewIcon (), browser, viewport, device, true);
@@ -132,8 +137,9 @@ public class DashboardPage extends BasePage {
     public void verifyMobileView (final int version, final int taskId, final String browser, final String viewport,
         final String device) {
         log (version, taskId, "Main menu", mainMenu (), browser, viewport, device, false);
-        log (version, taskId, "Search box", searchBox (), browser, viewport, device, true);
-        log (version, taskId, "Search icon", searchIcon (), browser, viewport, device, true);
+        log (version, taskId, "Search Glass", searchGlass (), browser, viewport, device, true);
+        log (version, taskId, "Search box", searchBox (), browser, viewport, device, false);
+        log (version, taskId, "Search icon", searchIcon (), browser, viewport, device, false);
         log (version, taskId, "Tile view icon", tileViewIcon (), browser, viewport, device, false);
         log (version, taskId, "Detail view icon", detailViewIcon (), browser, viewport, device, false);
         log (version, taskId, "Cart icon", cartIcon (), browser, viewport, device, true);
@@ -153,6 +159,7 @@ public class DashboardPage extends BasePage {
     public void verifyTabletView (final int version, final int taskId, final String browser, final String viewport,
         final String device) {
         log (version, taskId, "Main menu", mainMenu (), browser, viewport, device, false);
+        log (version, taskId, "Search Glass", searchGlass (), browser, viewport, device, false);
         log (version, taskId, "Search box", searchBox (), browser, viewport, device, true);
         log (version, taskId, "Search icon", searchIcon (), browser, viewport, device, true);
         log (version, taskId, "Tile view icon", tileViewIcon (), browser, viewport, device, false);

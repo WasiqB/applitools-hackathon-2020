@@ -15,10 +15,6 @@ public class DriverUtil {
         this.driver = driver;
     }
 
-    public void close () {
-        perform (WebDriver::close);
-    }
-
     public ElementUtil find (final By locator) {
         return finds (locator).get (0);
     }

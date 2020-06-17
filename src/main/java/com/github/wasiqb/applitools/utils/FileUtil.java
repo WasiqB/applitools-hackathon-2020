@@ -1,10 +1,7 @@
 package com.github.wasiqb.applitools.utils;
 
-import static java.text.MessageFormat.format;
-
 import java.io.File;
 import java.io.IOException;
-import java.util.Objects;
 
 public final class FileUtil {
     public static File createFile (final String path) {
@@ -17,27 +14,20 @@ public final class FileUtil {
             } catch (final IOException e) {
                 throw new RuntimeException ("Error while creating Report file.");
             }
+        } else {
+            if (report.delete ()) {
+                return createFile (path);
+            }
         }
         return report;
     }
 
     public static void createFolder (final String path) {
         final File reportDir = new File (path);
-        if (reportDir.exists ()) {
-            for (final File file : Objects.requireNonNull (reportDir.listFiles ())) {
-                deleteFile (file);
+        if (!reportDir.exists ()) {
+            if (!reportDir.mkdir ()) {
+                throw new RuntimeException ("Error while creating Report folder.");
             }
-            deleteFile (reportDir);
-        }
-        if (!reportDir.mkdir ()) {
-            throw new RuntimeException ("Error while creating Report folder.");
-        }
-    }
-
-    private static void deleteFile (final File file) {
-        if (!file.delete ()) {
-            throw new RuntimeException (
-                format ("Error while deleting Report {0}.", file.isDirectory () ? "folder" : "file"));
         }
     }
 

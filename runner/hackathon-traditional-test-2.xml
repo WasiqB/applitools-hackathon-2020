@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Applitools Cross Browser Testing Hackathon Suite - Traditional Approach - V2">
+    <test name="Laptop - Chrome - 1200x700">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="viewport" value="1200 x 700"/>
+        <parameter name="device" value="Laptop"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Laptop - Firefox - 1200x700">
+        <parameter name="browser" value="Firefox"/>
+        <parameter name="viewport" value="1200 x 700"/>
+        <parameter name="device" value="Laptop"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Laptop - Edge - 1200x700">
+        <parameter name="browser" value="Edge"/>
+        <parameter name="viewport" value="1200 x 700"/>
+        <parameter name="device" value="Laptop"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Tablet - Chrome - 768x700">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="viewport" value="768 x 700"/>
+        <parameter name="device" value="Tablet"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Tablet - Firefox - 768x700">
+        <parameter name="browser" value="Firefox"/>
+        <parameter name="viewport" value="768 x 700"/>
+        <parameter name="device" value="Tablet"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Tablet - Edge - 768x700">
+        <parameter name="browser" value="Edge"/>
+        <parameter name="viewport" value="768 x 700"/>
+        <parameter name="device" value="Tablet"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Mobile - Chrome - 500x700">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="viewport" value="500 x 700"/>
+        <parameter name="device" value="Mobile"/>
+        <classes>
+            <class name="com.github.wasiqb.applitools.TraditionalTestsV2.TraditionalTest2">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
