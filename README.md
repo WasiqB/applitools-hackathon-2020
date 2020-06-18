@@ -18,7 +18,6 @@ This solution was worked on Mac OSX Catalina 10.15.4
 - Applitools Eyes: - 3.164.0
 - WebDriverManager: - 4.0.0
 - TestNG: - 7.1.0
-- Truth: - 1.0.1
 
 ## Plugins used
 
