@@ -1,5 +1,7 @@
 # Applitools Cross Browser Testing Hackathon
 
+Solution with Selenium WebDriver with Java 8
+
 ## OS
 
 This solution was worked on Mac OSX Catalina 10.15.4
@@ -32,7 +34,14 @@ This solution was worked on Mac OSX Catalina 10.15.4
 
 ## How to run?
 
-### Modern approach
+### Clone repository
+
+```shell script
+> git clone git@github.com:WasiqB/applitools-hackathon-2020.git
+> cd <cloned_folder>
+```
+
+### Run Modern approach
 
 #### Terminal
 
@@ -53,6 +62,16 @@ This solution was worked on Mac OSX Catalina 10.15.4
 > mvn clean install -Dapproach=traditional
 ```
 
+### Reports
+
+#### Modern approach execution Report
+
+Report can be found at: [Applitools Dashboard](https://eyes.applitools.com/app/test-results/00000251809931137066/?accountId=C8EcmWXiM0a6sgTVuuTysQ~~)
+
+#### Traditional approach execution Report
+
+Report can be found in [report folder](https://github.com/WasiqB/applitools-hackathon-2020/tree/master/reports)
+
 ## Author
 
-Wasiq Bhamla
+Wasiq Bhamla, Senior QA Consultant at ThoughtWorks.
